@@ -2,7 +2,7 @@
 -👀 I’m interested in technology, coding, and exploring new tools and frameworks.
 -🌱 I’m currently learning advanced data structures and algorithms, as well as web development.
 -💞️ I’m looking to collaborate on open-source projects and coding challenges.
--📫 How to reach me: Feel free to connect via email or on LinkedIn (details to be provided by Rudransh).
+-📫 How to reach me: Feel free to connect via email or on LinkedIn.
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I can juggle between code, coffee, and creativity without missing a beat!
 <!---
