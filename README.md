@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm **Rudransh** 🚀  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Rudransh.;Coder.;Web+Dev+and+AI+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Rudransh.;Coder.;Web+Dev+and+AI+Enthusiast.;Open+Source+Contributor.)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
