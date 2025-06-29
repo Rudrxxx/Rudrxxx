@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
--I’m interested in technology, coding, and exploring new tools and frameworks.<br>-🌱 I’m currently learning advanced data structures and algorithms, as well as web development.<br>-💞️ I’m looking to collaborate on open-source projects and coding challenges.<br>-📫 How to reach me: Feel free to connect via email or on LinkedIn.<br>-😄 Pronouns: He/Him<br>-⚡ Fun fact: I can juggle between code, coffee, and creativity without missing a beat!<br>
+-I’m interested in technology, coding, and exploring new tools and frameworks.<br>-🌱 I’m currently learning advanced data structures and algorithms, as well as web development.<br>-💞️ I’m looking to collaborate on open-source projects and coding challenges.<br>-📫 How to reach me: Feel free to connect via email or on LinkedIn.<br>-😄 Pronouns: He/Him<br>-⚡  Fun Fact: I break into dance when my code runs without errors (don’t ask for proof).<br>
 
 
 ### 🚀 **Skills & Tools**  
